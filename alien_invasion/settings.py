@@ -54,5 +54,5 @@ class Settings(object):
 
         self.alien_points = int(self.alien_points * self.score_scale)
 
-        print(self.ship_speed_factor, "    ", self.bullet_speed_factor, "     ", self.alien_speed_factor, "     ",
-              self.alien_points)
+        # print(self.ship_speed_factor, "    ", self.bullet_speed_factor, "     ", self.alien_speed_factor, "     ",
+        #       self.alien_points)
