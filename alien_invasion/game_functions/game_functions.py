@@ -1,8 +1,10 @@
 import sys
-import pygame
-from bullet import Bullet
-from alien import Alien
 from time import sleep
+
+import pygame
+
+from alien import Alien
+from bullet import Bullet
 
 
 # 按键按下
